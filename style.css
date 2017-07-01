@@ -1,0 +1,40 @@
+body {
+    background: black;
+}
+header {
+	color: Yellow;
+	text-shadow: black;
+	text-align: center;
+}
+
+.words {
+	text-align: center;
+	font-family: Times;
+        color: teal;
+
+}
+
+p {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+p {
+    background-color: #0d85df;
+    font-weight: bold;
+    font-family: Times;
+}
+
+.navbar-form navbar-left {
+    margin-right: 50px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.pic {
+    text-align: center;
+}
