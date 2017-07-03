@@ -5,7 +5,7 @@ body {
 
 .caption {
     color: white;
-    font-family: Times;
+    font-family: 'Acme', sans-serif;
     font-weight: bold;
     padding-top: 150px;
 }
